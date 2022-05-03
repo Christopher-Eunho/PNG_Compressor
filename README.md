@@ -1,6 +1,12 @@
 # PNG_Compressor
 ## Intro
 A PNG image compression algorithm developed as an assignment of UBC CPSC 221 course: Basic Algorithms and Data Structures in 2022.
+<figure>
+<img src = "https://github.com/Christopher-Eunho/PNG_Compressor/blob/main/PNG_Compressor/PNGcompressor.gif">  
+<figcaption align = "center"><b>Demo of the program with sample images</b></figcaption>
+</figure>
+
+
 ## Algorithm
 This algorithm uses lossy image compression method. 
 - The program creates a binary tree by partitioning the HSLA pixels of the image. 
